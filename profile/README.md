@@ -8,7 +8,9 @@
   <img align="right" src="https://wakatime.com/badge/user/c66660f7-b6cb-48e9-a197-f57d968fb0d0.svg?style=default" alt="Total time coded since Aug 24 2022" />
 </a>
 
-Welcome! [I created](https://github.com/tokiory) this organization in order to write my blog here. You can always [see the code](https://github.com/orgs/tokiory-blog/repositories), everything is publicly.
+Welcome! [I created](https://github.com/tokiory) this organization in order to write my blog here.
+
+You can always [see the code](https://github.com/orgs/tokiory-blog/repositories), everything is publicly.
 
 #### Stack
 
